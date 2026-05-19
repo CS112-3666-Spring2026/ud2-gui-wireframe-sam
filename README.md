@@ -5,4 +5,4 @@ Modify this file to contain a description of your project, as well as your GUI w
 Use [Markdown](https://www.markdownguide.org/basic-syntax) to format appropriately.
 
 ## GUI Wireframe
-Embed your wireframe image(s) here!
+![GUI WIREFRAME](/ud2-gui-wireframe-sam/1_page-0001.jpg "1_page-0001")
